@@ -155,7 +155,7 @@ This experience has helped me understand how software is developed collaborative
 ## 📫 Connect With Me
 
 - GitHub: [@Samir-021](https://github.com/Samir-021)
-- LinkedIn: [Samir Adhikari](https://www.linkedin.com/in/samir-adhikari-39119a2b6/)
+- LinkedIn: [Samir Adhikari](https://www.linkedin.com/in/samir021/)
 
 I'm open to **web development projects, collaboration, and opportunities to learn and contribute to real-world software development**.
 
